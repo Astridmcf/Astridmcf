@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Astrid Molero
 =====================================================================================================================================
 
-Web Developer
--------------
-
 I'm a Web3-native Full-Stack JavaScript Developer focused on scalable dApps.
 
 Let's build the decentralized future, together!
