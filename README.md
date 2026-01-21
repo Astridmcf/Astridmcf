@@ -1,15 +1,15 @@
-# Hey, I'm Astrid 
-IT Support Analyst | Help Desk | Application Support
+# Hey, I'm Astrid 👋
+**IT Support Analyst | Help Desk | Application Support**
 
 I support users, troubleshoot production issues, and document solutions across Windows-based environments and enterprise applications, working under SLA-driven support models.
 
-I’m currently deepening my knowledge in Computer Networking while studying for the CCNA, strengthening my foundation in networking and infrastructure.
+**⚙️ I’m currently deepening my knowledge in **Computer Networking** while studying for the ![Cisco](https://img.shields.io/badge/-Cisco-005073?logo=cisco&logoColor=white&style=flat), strengthening my foundation in networking and infrastructure 🛠️**
 
 ## 🧪 Main Project  
-👉 [![Proyecto Jira](https://img.shields.io/badge/IT_Support_&_Jira_Simulation-2ea44f?style=for-the-badge)](https://github.com/Astridmcf/jira-itsm-simulation-)
+👉 [![Proyecto Jira](https://img.shields.io/badge/IT_Support_&_Jira_Simulation-2ea44f?style=flat-square)](https://github.com/Astridmcf/jira-itsm-simulation-)
 Hands-on IT Support simulation focused on real incident handling, troubleshooting workflows, and professional documentation using Jira Service Management.
 
-🛠️ Focus Areas
+## 🛠️ Focus Areas
 
 - IT Support & Help Desk (Tier 1–2)  
 - Application Support & SaaS platforms  
@@ -18,7 +18,7 @@ Hands-on IT Support simulation focused on real incident handling, troubleshootin
 - Advanced Windows support (user, OS & system issues)  
 - Technical documentation & SOPs  
 
-🧰 Technologies
+## 🧰 Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
