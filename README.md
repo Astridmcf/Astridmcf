@@ -1,4 +1,4 @@
-Hey, I’m Astrid 👋  
+# Hey, I'm Jake Astrod 
 IT Support Analyst | Help Desk | Application Support
 
 I support users, troubleshoot production issues, and document solutions across Windows-based environments and enterprise applications, working under SLA-driven support models.
