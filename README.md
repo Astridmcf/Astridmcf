@@ -5,8 +5,8 @@ I support users, troubleshoot production issues, and document solutions across W
 
 I’m currently deepening my knowledge in Computer Networking while studying for the CCNA, strengthening my foundation in networking and infrastructure.
 
-🧪 Main Project  
-👉 IT Support & Jira Service Management Simulation  
+## 🧪 Main Project  
+👉 [![Proyecto Jira](https://img.shields.io/badge/IT_Support_&_Jira_Simulation-2ea44f?style=for-the-badge)](https://github.com/Astridmcf/jira-itsm-simulation-)
 Hands-on IT Support simulation focused on real incident handling, troubleshooting workflows, and professional documentation using Jira Service Management.
 
 🛠️ Focus Areas
