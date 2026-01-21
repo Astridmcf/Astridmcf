@@ -3,7 +3,7 @@ IT Support Analyst | Help Desk | Application Support
 
 I support users, troubleshoot production issues, and document solutions across Windows-based environments and enterprise applications, working under SLA-driven support models.
 
-I’m currently deepening my knowledge in **Computer Networking** while studying for the **:contentReference[oaicite:0]{index=0}**, strengthening my foundation in networking and infrastructure.
+I’m currently deepening my knowledge in Computer Networking while studying for the CCNA, strengthening my foundation in networking and infrastructure.
 
 🧪 Main Project  
 👉 IT Support & Jira Service Management Simulation  
